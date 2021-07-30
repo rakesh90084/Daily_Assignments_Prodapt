@@ -9,9 +9,9 @@ class Mobphone:
         self.__price=self.__price-discount
 ob1=Mobphone()
 ob1.sellPrice()       
-ob1.__price=3000
+ob1.__price=1000
 ob1.sellPrice()
-ob1.offerPrice(500)
+ob1.offerPrice(300)
 ob1.sellPrice()
-ob1.x=90
+ob1.x=20
 ob1.sellPrice()

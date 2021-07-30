@@ -22,7 +22,7 @@ def isvalid_mob(mob):
         return False
 
 def isvalid_pin(pin):
-    regex3 = "^[1-9]{1}[0-9]{2}\\s{0,1}[0-9]{3}$"
+    regex3 = "^[4-9]{1}[0-9]{2}\\s{0,1}[0-9]{3}$"
     valid3 = re.search(regex3, pincode)
     if (valid3):
         return True
