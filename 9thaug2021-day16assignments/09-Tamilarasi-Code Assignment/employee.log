@@ -1,0 +1,16 @@
+ERROR:root:Check your name, mblno,destination and salary
+ERROR:root:Check your name, mblno,destination and salary
+ERROR:root:Check your name, mblno,destination and salary
+INFO:root:Successfully!!! Store the data
+INFO:root:Successfully!!! Search the data
+INFO:root:Successfully!!! delete the data
+ERROR:root:Something Went Wrong
+INFO:root:Successfully!!! Store the data
+INFO:root:Successfully!!! Search the data
+INFO:root:Successfully!!! Search the data
+INFO:root:Successfully!!! delete the data
+ERROR:root:Something Went Wrong
+ERROR:root:Check your name, mblno,destination and salary
+ERROR:root:Please Check Value int or string
+INFO:root:Successfully!!! Store the data
+INFO:root:Successfully!!! Search the data
